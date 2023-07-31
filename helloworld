@@ -3,7 +3,7 @@
 
 n=5//
 m=3
-c=m+n
+c=m+n //add
 print("addition of twom numbers is equal to",c)
 
 
